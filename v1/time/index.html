@@ -3,14 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-</head>
-<body>
-  <span id="UTC_za00" style="font-size:36px"></span>
-  <script src="//widget.time.is/en.js"></script>
-  <script>
-    time_is_widget.init({UTC_za00:{template:"TIME<br>DATE<br>SUN", date_format:"dayname, monthname dnum, year", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute<br>Day length: dlhoursh dlminutesm", coords:"0.0000000,0.0000000"}});
-  </script>
+  <title>time</title>
   
+  <script src="time.js"></script>
+  
+</head>
+<body onload="startTime()">
+  <div id="txt"></div>
 </body>
 </html>
