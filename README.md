@@ -1,13 +1,8 @@
-<!doctype html>
-<html lang="en">
+# webtest
 
-<html>
-    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-      <title>C R O N C H</title>
-        
-    </head>
+just a practice ground for my journey into webdev
 
-</html>
+## misc.
+
+'''bash
+disregard this :)'''
