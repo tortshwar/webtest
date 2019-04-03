@@ -5,3 +5,19 @@ html   {
 body {
   color: white;
 }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: rgb(100,90,121);
+}
+
+a:active {
+  color: rgb(100,90,121);
+}
